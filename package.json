@@ -1,0 +1,16 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "description": "Playwright tests on TS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Malika",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.48.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.7"
+  }
+}
