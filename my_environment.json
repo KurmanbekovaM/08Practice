@@ -1,0 +1,13 @@
+{
+    "id": "12345",
+    "name": "My Environment",
+    "values": [
+        {
+            "key": "baseUrl",
+            "value": "https://lalafo.kg/",
+            "enabled": true
+        }
+    ],
+    "timestamp": 1632787260000,
+    "synced": true
+}
